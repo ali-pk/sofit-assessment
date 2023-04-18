@@ -1,0 +1,28 @@
+.users-data {
+  width: 1340px;
+  background-color: #fbc7f7;
+  margin: 10px;
+  padding: 50px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-sort {
+  padding: 20px;
+  margin-left: 10px;
+}
+
+.btn-sort i {
+  cursor: pointer;
+}
+table,
+th,
+td {
+  border: 1px solid #ffcefe;
+  background-color: #f3ccff;
+}
+.main-heading {
+  color: #d62ad0;
+}
+.table-heading {
+  color: #d62ad0;
+}
